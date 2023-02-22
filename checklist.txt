@@ -1,0 +1,7 @@
+    module: login page
+ 1. Enter the valid email and valid password 
+ 2. Enter the valid email and invalid pasword
+ 3. Enter the invalid email and valid password
+ 4. Enter the invalid email and invalid pasword
+ 
+
