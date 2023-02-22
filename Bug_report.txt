@@ -1,0 +1,13 @@
+Id: 1
+Summary: Error messages in the login form are displayed in English
+Environment: All browsers / devices
+Severity: Major
+Steps to reproduse: 
+ 1. Open main page 
+ 2. Follow "inlogin" link
+ 3. Fill required fields with invalid data
+ 4. Click "inlogin" button
+ 5. Pay attention to error messages
+Actual result: Error messages in the login form are displayed in English 
+Expected result: Error messages in the login form are displayed in the chosen language
+Attachment: link, screenshot
